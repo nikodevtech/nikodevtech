@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikodevtech" alt="nikodevtech" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en [mi portfolio](https://github.com/nikodevtech/portfolio)
+- 🔭 Actualmente estoy trabajando en [mi portfolio personal](https://github.com/nikodevtech/portfolio)
 
 - 🌱 Actualmente estoy aprendiendo **Angular - Spring**
 
