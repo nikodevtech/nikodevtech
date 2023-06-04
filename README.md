@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Angular - Spring**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/nikodevtech](https://github.com/nikodevtech)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/nikodevtech](https://github.com/nikodevtech?tab=repositories)
 
 - 📫 Como contactar **nikoalvarezzapata@gmail.com**
 
