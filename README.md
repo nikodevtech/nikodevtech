@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Nicolás Álvarez</h1>
 <h3 align="center">Un apasionado desarrollador de España</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xavimont0409" alt="xavimont0409" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikodevtech" alt="nikodevtech" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en [Solo project Henry](https://github.com/Xavimont0409/PI-Pokemon-main.git)
+- 🔭 Actualmente estoy trabajando en [Solo project](https://github.com/nikodevtech/portfolio)
 
 - 🌱 Actualmente estoy aprendiendo **Angular - Spring**
 
@@ -13,7 +13,7 @@
 
 - 📄 Conoce mis experiencias [https://www.linkedin.com/in/nicoalzap/](https://www.linkedin.com/in/nicoalzap)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nicoalzap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicoalzap" height="30" width="40" /></a>
 </p>
