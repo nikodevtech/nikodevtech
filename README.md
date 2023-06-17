@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Nicolás Álvarez</h1>
 <h3 align="center">Un apasionado desarrollador de España</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikodevtech" alt="nikodevtech" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikodevtech" alt="nikodevtech" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en [mi portfolio personal](https://github.com/nikodevtech/portfolio)
 
@@ -44,10 +44,6 @@
   -->
 </p>
 <h2>Lenguajes más usados</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikodevtech&show_icons=true&locale=en&layout=compact" alt="nikodevtech" /></p><br/>
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
-
-
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikodevtech&show_icons=true&locale=en&layout=compact" alt="nikodevtech" /></p>
+<br/><h2>GitHub Stats</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikodevtech&show_icons=true&locale=en" alt="nikodevtech" /></p>
