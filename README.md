@@ -1,8 +1,7 @@
 <h1 align="center">Hola 👋, Soy Nicolás Álvarez</h1>
 <h3 align="center">Un apasionado desarrollador de España</h3>
 
-<p align="left"> ![](https://github-trophies.vercel.app/?username=yourusername) </p>
-
+<p align="left"> <img src="https://github-trophies.vercel.app/?username=nikodevtech" alt="Achievements github" /></p>
 
 - 🔭 Actualmente estoy trabajando en [mi portfolio personal](https://github.com/nikodevtech/portfolio)
 
